@@ -1,18 +1,22 @@
-# SILBOM - Sistema Inteligente de Lectura y Bloqueo Operativa de Maquinaria 
+# SILBOM — Repositorio histórico (Hitos 1 y 2)
 
-## Promesa del Proyecto
-Para los jefes de mantenimiento industrial en Chile que sufren pérdidas de tiempo y riesgos de accidentes por el descontrol en los protocolos LOTO (Lockout/Tagout), nuestro producto SIL entrega un sistema de bloqueo digital mediante NFC/QR que audita el estado de las máquinas en tiempo real.
+> ## ⚠️ Este repositorio ya no se actualiza
+>
+> El proyecto SILBOM **se trasladó a [github.com/Bvstivn-A/Silbom](https://github.com/Bvstivn-A/Silbom)** en noviembre de 2026.
+> Aquí quedan solo los **commits originales de los primeros hitos**, como registro histórico.
+>
+> El código actual, las instrucciones de instalación, el video y los informes están en el repositorio nuevo.
 
-## Equipo de Trabajo
-* **Vicente** - GitHub: [@Vicente-PR] (Coordinador)
-* **Bastian** - GitHub: [@Bvstivn-A] (Responsable Documento)
-* **Belén** - GitHub: [@lenbbee] (Responsable Prototipo)
-* **Benjamín** - GitHub: [@BenjaHK] (Responsable Repositorio)
+**SILBOM:** una capa de auditoría digital sobre el candado que la ley ya exige.
+Identifica cada máquina con NFC, registra cada candado LOTO y lo muestra en vivo al supervisor.
 
-## Entregables Hito 1
+Proyecto semestral INGT1003 · Universidad Mayor · 2026
 
+| Integrante | Usuario GitHub |
+|---|---|
+| Bastián | [@Bvstivn-A](https://github.com/Bvstivn-A) |
+| Belén | [@lenbbee](https://github.com/lenbbee) |
+| Benjamín | [@BenjaHK](https://github.com/BenjaHK) |
+| Vicente | [@Vicente-PR](https://github.com/Vicente-PR) |
 
-* **Prototipo Navegable:**(Silbom1.html](docs/Silbom1.html)
-* [Presentación Hito 1](docs/SILBOM_Presentacion_Hito1%20(1).pdf)
-* [Propuesta Hito 1](docs/SILBOM_Propuesta_Hito1%20(5).pdf)
-a
+👉 **Ir al repositorio oficial: [Bvstivn-A/Silbom](https://github.com/Bvstivn-A/Silbom)**
